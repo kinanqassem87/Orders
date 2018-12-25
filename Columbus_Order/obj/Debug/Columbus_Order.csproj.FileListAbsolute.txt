@@ -1,0 +1,17 @@
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\bin\Debug\Columbus_Order.exe.config
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\bin\Debug\Columbus_Order.exe
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\bin\Debug\Columbus_Order.pdb
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.BL.Frm_Main.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.Properties.Resources.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.csproj.GenerateResource.Cache
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.csproj.CoreCompileInputs.cache
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.exe
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.pdb
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.BL.FRM_SignIN.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_NewOrder.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderView.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgOrder.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_OrderArchive.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.csprojResolveAssemblyReference.cache
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_ImgZoom.resources
+D:\New folder\Code\C# Asp MVC\C# Project Harfouch\Columbus_Order\Columbus_Order\obj\Debug\Columbus_Order.PL.Frm_QuteView.resources
